@@ -31,6 +31,10 @@ body {
   padding: 10px;
   font-size: 14px;
   color: white;
+  background-color: rgb(150, 192, 184);
+}
+
+.submit-btn:hover{
   background-color: #1BBC9B;
 }
 
