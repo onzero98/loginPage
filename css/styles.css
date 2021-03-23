@@ -13,10 +13,10 @@ body {
 .login-form {
   width: 300px;
   padding: 20px;
-  background-color: #EEEFF1;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+  background-color: #EEEFF1;
 }
 
 .text-field {
@@ -28,19 +28,21 @@ body {
 
 .submit-btn {
   width: 100%;
+  padding: 10px;
+  font-size: 14px;
   color: white;
   background-color: #1BBC9B;
-  font-size: 14px;
-  padding: 10px;
 }
 
 .links {
+  text-align: center;
   margin-top: 30px;
   color: #9B9B9B;
-  text-align: center;
 }
 
 .links a {
-  color: #9B9B9B;
   font-size: 12px;
+  text-decoration: none;
+  margin-left: 10px;
+  color: #9B9B9B;
 }
