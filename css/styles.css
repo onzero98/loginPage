@@ -72,7 +72,6 @@ body {
   background: #FFF;
   border-radius: .25em .25em .4em .4em;
   text-align: center;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   padding: 20px;
 }
 
@@ -87,6 +86,8 @@ body {
 }
 
 #popup-container button {
+  /* 마지막 건드린곳 */
+  border: none;
   background: #856246;
   border-radius: 100px;
   color: white;
